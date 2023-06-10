@@ -1,4 +1,5 @@
 # Film adatbázis
+A project a 4. féléves Informatika 2 tárgy házi feladatának megvalósítása.
 ## Specifikáció 
 ### Feladat formális leírása
 A feladat célja egy olyan stream szerű oldal megvalósítása melyen filmek vásárolhatóak meg. Az adatbázisban tároljuk, hogy melyik felhasználó melyik filmeket tekintheti meg és mely filmekben mely színészek játszanak. A felhasználó belépés után lekérheti a filmek listáját, magához rendelhet filmet, megnézheti a filmhez tartozó színészeket etc. .
